@@ -78,7 +78,7 @@ function createMap(earthquakes) {
     "Tectonic Plates": tectonicPlates
   };
 
-    // Create our map, giving it the streetmap and earthquakes layers to display on load
+    // Create our map, giving it the lightmap and earthquakes layers to display on load
   var myMap = L.map("map-id", {
     center: [39.8283, -98.5795],
     zoom: 3,
