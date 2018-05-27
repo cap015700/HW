@@ -67,12 +67,12 @@ Final report should includes each of the following:
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-Final considerations:
+**Final considerations:**
 
 * Script must work for both data-sets given.
 * Use the Pandas Library and the Jupyter Notebook.   
 
-** Observable trends based on the data**
+**Observable trends based on the data**
   * Observable Trend 1 - Based on Overall Passing Rate, the top performing schools were small to medium sized charter schools.
   * Observable Trend 2 - Based on Overall Passing Rate, the bottom performing schools were large, district schools.
   * Observable Trend 3 - Math and Reading Scores by Grade showed no significant variance or trends.
