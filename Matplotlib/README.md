@@ -10,12 +10,18 @@ Given access to the company's complete recordset of rides, the objective is to b
 - Total Number of Drivers Per City
 - City Type (Urban, Suburban, Rural)
 ![pyber1](Images/pyber1.png)
+
 In addition, produce the following three pie charts:
 - % of Total Fares by City Type
+
 ![pyber2](Images/pyber2.png)
+
 - % of Total Rides by City Type
+
 ![pyber3](Images/pyber3.png)
+
 - % of Total Drivers by City Type
+
 ![pyber4](Images/pyber4.png)
 
 **Observable Trends**
