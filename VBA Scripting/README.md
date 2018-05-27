@@ -1,4 +1,4 @@
-### Stock market analyst
+### Stock Market Analyst
 ![stockmarket](Images/stockmarket.jpg)
 
 Created a script that loops through all the stocks and takes the following info:
