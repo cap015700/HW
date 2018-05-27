@@ -8,3 +8,6 @@ Languages and Tools:
 - MySQL: MySQL Workbench
 - Sakila DB
 - Jupyter Notebook
+- Pandas
+- SQLAlchemy
+- pymysql
