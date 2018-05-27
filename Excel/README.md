@@ -55,6 +55,3 @@ As we mentioned earlier, there are several other factors of interest that could 
 
 would yield a more comprehensive analysis with increased confidence in the accuracy of its findings.
 
-**References**
-
-https://1drv.ms/x/s!Ai0Me-pLLhK\_hENmR5Kx0Ol6MRSr
