@@ -1,5 +1,5 @@
 
-'''
+
 import os
 import csv
 
@@ -85,7 +85,7 @@ OTooley_perc = OTooley/total_votes
 Election_Analysis = [Vestal, Torres, Seth, Cordin, Khan, Correy, Li, OTooley]
 Election_Perc = [Vestal_perc, Torres_perc, Seth_perc, Cordin_perc, Khan_perc, Correy_perc, Li_perc, OTooley_perc]
 Winner = max(Election_Analysis)
-'''
+
 
 '''
 
@@ -94,7 +94,7 @@ for keys, values in dictionary.items():
     print(keys, values)
     
 '''
-'''
+
 
 Election_Results = os.path.join("Election_Results.csv")
 with open(Election_Results, 'w', newline="") as datafile:
@@ -135,7 +135,7 @@ print("----------------------------")
 print("Winner: " + str(candidate_list[Election_Analysis.index(max(Election_Analysis))]))
 print("----------------------------")
 
-'''
+
 
 
 
