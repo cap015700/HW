@@ -45,6 +45,7 @@ Tasked with helping a small, rural town modernize its vote-counting process give
 
 * The final script must be able to handle any such similarly-structured dataset in the future -- so the script needs to work without massive re-writes. In addition, the final script should both print the analysis to the terminal and export a text file with the results.
 
+```
 Election Results
 ----------------------------
 Total Votes: 4324001
@@ -60,3 +61,4 @@ O'Tooley: 2.0% (105629)
 ----------------------------
 Winner: Khan
 ----------------------------
+```
