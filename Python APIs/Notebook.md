@@ -2005,7 +2005,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![weatherpy1](Images/weatherpy1.png)
 
 
 
@@ -2029,7 +2029,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![weatherpy2](Images/weatherpy2.png)
 
 
 
@@ -2053,7 +2053,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![weatherpy3](Images/weatherpy3.png)
 
 
 
@@ -2077,5 +2077,5 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![weatherpy4](Images/weatherpy4.png)
 
