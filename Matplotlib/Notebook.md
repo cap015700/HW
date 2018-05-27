@@ -66,7 +66,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![pyber1](Images/pyber1.png)
 
 
 
@@ -85,7 +85,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![pyber2](Images/pyber2.png)
 
 
 
@@ -103,7 +103,7 @@ plt.show()
 ```
 
 
-![png](output_4_0.png)
+![pyber3](Images/pyber3.png)
 
 
 
@@ -120,5 +120,5 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![pyber4](Images/pyber4.png)
 
