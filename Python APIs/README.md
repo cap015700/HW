@@ -20,6 +20,11 @@ The objective is to build a series of scatter plots to showcase the following re
 
 ![weatherpy4](Images/weatherpy4.png)
 
+### Observable Trends
+- Trend 1 - Temperature vs Latitude Plot shows that the temperatures are higher the closer they are to the equator (latitude     range of -20 to 20)
+- Trend 2 - City Latitude vs Windspeed Plot shows that Windspeeds are somewhat indifferent to Latitudes, but it is important to note that highest wind speed outliers all occur at latitudes furthest from the equator.
+- Trend 3 - Based on the data, it seems as though cloudiness and humidity are relatively consistent across all latitudes. Further analysis to include an additional variable may reveal further insights into those relationships
+
 Languages and Tools: 
 - Python
 - Pandas
