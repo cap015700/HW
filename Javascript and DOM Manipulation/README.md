@@ -1,6 +1,6 @@
 ### Aliens R Real
 
-Wrote code that will create a table dynamically based upon an "UFO SIghtings" dataset (Data/data.js) that allows users to search through the table for specific pieces of information. 
+Wrote code that will create a table dynamically based upon an "UFO SIghtings" dataset (data.js) that allows users to search through the table for specific pieces of information. 
 
 ### Automatic Table and Date Search
 
