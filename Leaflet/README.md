@@ -13,5 +13,5 @@ Languages and Tools:
 - D3
 - GeoJSON
 
-![earthquake](Images/earthquake.jpg)
+![earthquake](Images/earthquake.png)
 
