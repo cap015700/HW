@@ -11,6 +11,6 @@ Languages and Tools:
 - TextBlob
 - VADER
 
-![output_9_0]/(Images/output_9_0.png)
+![output_9_0](Images/output_9_0.png)
 
 ![output_11_0](Images/output_11_0.png)
