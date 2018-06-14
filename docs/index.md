@@ -1,2 +1,2 @@
 Charles Pratt
-<a href = "D3/index.html">D3</a>
+<a href = "D3">D3</a>
